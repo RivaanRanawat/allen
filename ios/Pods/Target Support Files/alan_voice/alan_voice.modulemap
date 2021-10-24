@@ -1,0 +1,6 @@
+framework module alan_voice {
+  umbrella header "alan_voice-umbrella.h"
+
+  export *
+  module * { export * }
+}
